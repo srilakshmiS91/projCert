@@ -1,0 +1,3 @@
+Sample txt file
+trying git cmds
+first sample file
